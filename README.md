@@ -1,3 +1,8 @@
+My notes
+1. install node-sass
+2. install react-router-dom
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
